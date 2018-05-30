@@ -5,6 +5,16 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# NG
+.idea/
+.vscode
+/node_modules
+/bower_components
+/build
+/report
+/typings
+
+
 # Runtime data
 pids
 *.pid
@@ -56,4 +66,4 @@ typings/
 
 # dotenv environment variables file
 .env
-
+.env.json
