@@ -1,6 +1,10 @@
 # Arketh
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+>>>>>>> 07b8458e11233198188187dbc3a564c4d3cbe653
 
 ## Development server
 
@@ -12,7 +16,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+<<<<<<< HEAD
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+=======
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+>>>>>>> 07b8458e11233198188187dbc3a564c4d3cbe653
 
 ## Running unit tests
 

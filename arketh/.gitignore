@@ -30,6 +30,7 @@
 /coverage
 /libpeerconnection.log
 npm-debug.log
+<<<<<<< HEAD
 testem.log
 /typings
 
@@ -37,6 +38,12 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
+=======
+yarn-error.log
+testem.log
+/typings
+
+>>>>>>> 07b8458e11233198188187dbc3a564c4d3cbe653
 # System Files
 .DS_Store
 Thumbs.db
